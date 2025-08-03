@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Curret focus ▶️ Machine Learning
+#### Current focus ▶️ Machine Learning
 <!--
 **SoumyaP-bit/SoumyaP-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
