@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Soumya here and welcome to my world of bits and bytes
 
 #### Current focus ▶️ Machine Learning
 <!--
